@@ -1,4 +1,4 @@
-# ANÁLISE TELEMARKETING
+# ANÁLISE DE TELEMARKETING
 
 Um simples resumo do uso/propósito do projeto.
 
@@ -37,8 +37,8 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lays Félix 
-ex. [@laysfelixbusiness]([https://www.linkedin.com/in/laysfelixbusiness/]
+Lays Félix 
+[@laysfelixbusiness]([https://www.linkedin.com/in/laysfelixbusiness/]
 
 ## Histórico de versões.
 
