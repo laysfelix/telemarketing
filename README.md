@@ -1,4 +1,4 @@
-# Título do projeto
+# ANÁLISE TELEMARKETING
 
 Um simples resumo do uso/propósito do projeto.
 
@@ -37,8 +37,8 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+ex. Lays Félix 
+ex. [@laysfelixbusiness]([https://www.linkedin.com/in/laysfelixbusiness/]
 
 ## Histórico de versões.
 
